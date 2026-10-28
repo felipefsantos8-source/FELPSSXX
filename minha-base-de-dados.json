@@ -1,0 +1,51 @@
+
+[
+  {
+    "titulo": "🎮 O que é o Omnitorrinco?",
+    "pergunta": "O que é o Omnitorrinco?",
+    "keywords": ["omnitorrinco", "site", "sobre", "quem somos"],
+    "resposta": "O Omnitorrinco é um site dedicado a reunir conteúdos e informações sobre Minecraft, como addons, texturas, mapas e ferramentas."
+  },
+  {
+    "titulo": "🧩 O que são addons?",
+    "pergunta": "O que são addons?",
+    "keywords": ["addon", "addons", "modificacoes", "criaturas", "itens"],
+    "resposta": "Addons podem adicionar ou alterar elementos do Minecraft, como criaturas, itens, comportamentos e mecânicas. Confira os detalhes de cada conteúdo antes de instalar."
+  },
+  {
+    "titulo": "🎨 O que são texturas?",
+    "pergunta": "O que são texturas?",
+    "keywords": ["textura", "texturas", "visual", "grafico", "aparencia"],
+    "resposta": "Pacotes de texturas mudam a aparência de blocos, itens e outros elementos visuais. A compatibilidade pode variar conforme a edição e a versão do Minecraft."
+  },
+  {
+    "titulo": "🗺️ Onde encontro mapas?",
+    "pergunta": "Onde encontro mapas?",
+    "keywords": ["mapa", "mapas", "mundo", "aventura", "download"],
+    "resposta": "Procure a seção Conteúdos do site e confira as informações disponíveis para cada mapa. Esta versão ainda não possui links de download individuais configurados."
+  },
+  {
+    "titulo": "📱 Qual versão do Minecraft é compatível?",
+    "pergunta": "Qual versão do Minecraft é compatível?",
+    "keywords": ["versao", "compatibilidade", "bedrock", "java", "celular", "pc"],
+    "resposta": "A compatibilidade depende de cada addon, textura ou mapa. Verifique a descrição do conteúdo e confirme se ele funciona na sua edição e versão do Minecraft antes de instalar."
+  },
+  {
+    "titulo": "🛠️ Como instalar um conteúdo?",
+    "pergunta": "Como instalar addons e conteúdos?",
+    "keywords": ["instalar", "instalacao", "baixar", "download", "importar"],
+    "resposta": "O processo varia conforme o tipo de arquivo e a edição do Minecraft. Leia as instruções fornecidas junto ao conteúdo e faça download apenas de fontes confiáveis."
+  },
+  {
+    "titulo": "📩 Como entrar em contato?",
+    "pergunta": "Como entrar em contato?",
+    "keywords": ["contato", "mensagem", "falar", "email", "sugestao"],
+    "resposta": "Você pode usar o formulário na seção Contato para preparar uma mensagem. No momento, o formulário é demonstrativo e ainda não envia mensagens para um servidor."
+  },
+  {
+    "titulo": "🔒 O site pede pagamento ou senha?",
+    "pergunta": "Preciso informar senha ou pagar?",
+    "keywords": ["senha", "pagamento", "pagar", "pix", "seguranca", "conta"],
+    "resposta": "Não informe sua senha do Minecraft ou de outras contas no chatbot. Esta página demonstrativa não processa pagamentos. Confira sempre a origem dos arquivos e evite páginas suspeitas."
+  }
+]
