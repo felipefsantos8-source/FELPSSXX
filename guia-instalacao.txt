@@ -1,0 +1,11 @@
+O OMNITORRINCO - GUIA BÁSICO DE INSTALAÇÃO
+
+1. Confira a edição e a versão do Minecraft exigidas pelo criador do conteúdo.
+2. Leia a descrição e as instruções originais antes de baixar qualquer arquivo.
+3. Faça downloads somente de fontes conhecidas e confiáveis.
+4. Verifique o tipo de arquivo e siga as instruções específicas da edição do jogo.
+5. Mantenha uma cópia de segurança dos seus mundos antes de testar modificações.
+6. Se houver incompatibilidade, remova o conteúdo seguindo as instruções da fonte original.
+
+AVISO: Este guia é informativo. O procedimento pode variar entre Minecraft Java e Bedrock,
+entre plataformas e entre versões. O Omnitorrinco não hospeda os arquivos mencionados.
